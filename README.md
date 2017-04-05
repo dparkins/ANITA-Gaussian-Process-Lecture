@@ -1,4 +1,4 @@
-# ANITA Lecture on Gaussian Process Modeling
+# ANITA Lecture on Gaussian Process Modelling
 
 Requirements:
 * python
